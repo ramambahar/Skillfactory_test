@@ -1,11 +1,19 @@
+from calendar import firstweekday
+
+
 dsaf
 
 
 
 
 ва
-вы
-ап
+11
+1
+1
+1
+1
+1
+1
 ап
 
 sdafds
